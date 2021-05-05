@@ -10,7 +10,7 @@ https://ehjhihlo.github.io/MyResume/index.html
 -License: https://bootstrapmade.com/license/
 
 ### 2.背景圖片來源：
--https://www.pexels.com/zh-tw/search/%E8%83%8C%E6%99%AF%E5%9C%96%E7%89%87/
+-https://www.pexels.com/zh-tw/search/%E8%83%8C%E6%99%AF%E5%9C%96%E7%89%87/  
 -https://www.pexels.com/zh-tw/search/background/
 
 ## 功能介紹

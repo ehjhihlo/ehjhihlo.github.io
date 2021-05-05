@@ -15,7 +15,7 @@ https://ehjhihlo.github.io/MyResume/index.html
 
 ## 功能介紹
 ### 1. 網頁瀏覽
-_模板修改_  
+*模板修改*  
 #### -navigaiton-bar
 位於網頁左側，按下後可瀏覽相關主題
 #### -back-to-top button

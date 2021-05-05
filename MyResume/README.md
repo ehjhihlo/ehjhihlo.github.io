@@ -23,7 +23,7 @@ https://www.pexels.com/zh-tw/search/background/
 #### -social links
 分別有fb,ig,linkedin以及github，點選後可進入相關的社群網站頁面
 ### 3. About
-包含自傳、學經歷及技能
+包含自傳、學經歷以及技能
 ### 4. Project
 學校的專題及報告
 #### -link
@@ -34,6 +34,7 @@ https://www.pexels.com/zh-tw/search/background/
 參與課外活動的經驗
 ### 6. Certificate
 證明文件：包括成績單、獎狀及語言證明等
+- 點選「+」可放大圖片
 ### 7. Contact
 聯絡資料
 ### 8. Footpage

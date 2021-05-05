@@ -4,9 +4,9 @@ https://ehjhihlo.github.io/MyResume/index.html
 
 ## 參考資料
 ### 1.參考的bootstrap模板：
--Template Name: MyResume
--Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
--Author: BootstrapMade.com
+-Template Name: MyResume  
+-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/  
+-Author: BootstrapMade.com  
 -License: https://bootstrapmade.com/license/
 
 ### 2.背景圖片來源：

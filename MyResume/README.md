@@ -15,18 +15,18 @@ https://www.pexels.com/zh-tw/search/background/
 
 ## 功能介紹
 ### 1. 網頁瀏覽
-###### -navigaiton-bar
+#### -navigaiton-bar
 位於網頁左側，按下後可瀏覽相關主題
-###### -back-to-top button
+#### -back-to-top button
 位於右下角的黑色按鈕，按下後可回到網頁最上端
 ### 2. 首頁
-###### -social links
+#### -social links
 分別有fb,ig,linkedin以及github，點選後可進入相關的社群網站頁面
 ### 3. About
 包含自傳、學經歷及技能
 ### 4. Project
 學校的專題及報告
-###### -link
+#### -link
 將滑鼠移至各個圖片上，會顯示專題的名稱以及主要分類，並附上兩個連結
 - 點選「+」可放大圖片
 - 點選「迴紋針」可查看完整報告內容，包括網站連結、pdf或word檔下載等

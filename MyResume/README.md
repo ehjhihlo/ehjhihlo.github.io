@@ -33,7 +33,7 @@ https://ehjhihlo.github.io/MyResume/index.html
 #### -link
 將滑鼠移至各個圖片上，會顯示專題的名稱以及主要分類，並附上兩個連結
 - 點選「+」可放大圖片
-- 點選「迴紋針」可查看完整報告內容，包括網站連結、pdf或word檔下載等
+- 點選「迴紋針」可查看完整報告內容，包括github連結、pdf或word檔下載等
 ### 5. Activities
 **手刻**  
 參與課外活動的經驗

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>最強迷因製作器</title>
+    <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+    <h1>~最強迷因製作器~</h1>
+    <div style="height: 10px;" class='header'></div>
+    <h2 class='header'>1. 請選擇一張喜歡的迷因素材圖片，點擊圖片或文字以進行編輯：</h2>
+    <div style="height: 10px;" class='header'></div>
+    <table>
+        <tr>
+            <td class="image-picker">
+                <a href="./assets/html/img001.html" style="text-decoration:none">
+                    <img src="./assets/img/img001.jpg" class="bg" id="img001">
+                    <p class='word'>巴斯光年開導</p>
+                </a>
+            </td>           
+            <td class="image-picker">
+                <a href="./assets/html/img002.html" style="text-decoration:none">
+                    <img src="./assets/img/img002.jpg" class="bg" id="img002">
+                    <p class='word'>思考</p>
+                </a>
+            </td>
+            <td class="image-picker">
+                <a href="./assets/html/img003.html" style="text-decoration:none">
+                    <img src="./assets/img/img003.jpg" class="bg" id="img003">
+                    <p class='word'>高速公路急轉彎</p>
+                </a>
+            </td>
+            <td class="image-picker">
+                <a href="./assets/html/img004.html" style="text-decoration:none">
+                    <img src="./assets/img/img004.jpg" class="bg" id="img004">
+                    <p class='word'>黑人抬棺材</p>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td class="image-picker">
+                <a href="./assets/html/img005.html" style="text-decoration:none">
+                    <img src="./assets/img/img005.jpg" class="bg" id="img005">
+                    <p class='word'>當你試圖解釋</p>
+                </a>
+            </td>
+            <td class="image-picker">
+                <a href="./assets/html/img006.html" style="text-decoration:none">
+                    <img src="./assets/img/img006.jpg" class="bg" id="img006">
+                    <p class='word'>我就爛</p>
+                </a>
+            </td>
+            <td class="image-picker">
+                <a href="./assets/html/img007.html" style="text-decoration:none">
+                    <img src="./assets/img/img007.jpg" class="bg" id="img007">
+                    <p class='word'>Drake no/yes</p>
+                </a>
+            </td>
+            <td class="image-picker">
+                <a href="./assets/html/img008.html" style="text-decoration:none">
+                    <img src="./assets/img/img008.jpg" class="bg" id="img008">
+                    <p class='word'>美國隊長電梯</p>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td class="image-picker">
+                <a href="./assets/html/img009.html" style="text-decoration:none">
+                    <img src="./assets/img/img009.jpg" class="bg" id="img009">
+                    <p class='word'>三選一按鈕</p>
+                </a>
+            </td>
+            <td class="image-picker">
+                <a href="./assets/html/img0010.html" style="text-decoration:none">
+                    <img src="./assets/img/img0010.jpg" class="bg" id="img0010">
+                    <p class='word'>女人吼貓</p>
+                </a>
+            </td>
+            <td class="image-picker">
+                <a href="./assets/html/img0011.html" style="text-decoration:none">
+                    <img src="./assets/img/img0011.jpg" class="bg" id="img0011">
+                    <p class='word'>蜘蛛人互指</p>
+                </a>
+            </td>
+            <td class="image-picker">
+                <a href="./assets/html/img0012.html" style="text-decoration:none">
+                    <img src="./assets/img/img0012.jpg" class="bg" id="img0012">
+                    <p class='word'>蜘蛛人戴眼鏡</p>
+                </a>
+            </td>
+        </tr>
+    </table>
+
+    <div style="height: 10px;" class='header'></div>
+    <h2 class='header'>2. 或是自行上傳迷因素材圖片：</h2>
+    <div style="height: 10px;" class='header'></div>
+
+    <div class='maker'>
+        <!-- <div>
+            <button type="file" accept="image/*" onchange="loadFile(event)" class='upload-container'>選擇檔案</button>
+        </div> -->
+        <input type="file" accept="image/*" onchange="loadFile(event)" class='upload-container'>
+
+        <div class='image-container'>
+            <div class='output-image'>
+                <img class='image-container' id="output">
+            </div>
+            <div class="text-container">
+                <div class="text-editor" id="text1" contenteditable="true">請輸入迷因內容</div>
+            </div>
+        </div>
+        <div style="height: 80px;"></div>
+        <div class="btn">
+            <div>
+                <button class="btn-reset">Reset</button>
+            </div>
+            <div>
+                <button class="btn-add">新增文字框</button>
+            </div>
+            <div>
+                <button class="btn-download">下載圖片</button>
+            </div>
+            <div>
+                <button class="btn-color">更改文字顏色</button>
+            </div>
+            <div>
+                <button class="btn-size">更改文字大小</button>
+            </div>
+        </div>
+        <div style="height: 80px;"></div>
+    </div>
+
+    <script src="assets/js/main.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://superal.github.io/canvas2image/canvas2image.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+
+</body>
+</html>

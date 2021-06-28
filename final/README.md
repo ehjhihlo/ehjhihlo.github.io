@@ -29,7 +29,6 @@ reset鈕：點選後可移除全部的文字框
 ## 技術使用
 1. html、css部分為自己手刻，未套用bootstrap模板  
 2. 12張迷因圖片以表格<table>方式做排版  
-3. javascript方面，使用了jquery以及html2canvas兩種函式庫，使用jquery來撰寫text以及button的語法，而使用html2canvas來將網頁上的物件轉成canvas後，實現截圖的原理，並把圖片下載下來  
-## 網站特色
+3. javascript方面，使用了jquery以及html2canvas兩種函式庫，使用jquery來撰寫text以及button的語法，而使用html2canvas來將網頁上的物件轉成canvas後，實現截圖的原理，並把圖片下載下來  ## 網站特色
 使用者可選擇自己喜歡的迷因圖片，或是自行上傳圖片來製作客製化的迷因  
 未來或許可搭配後端，透過建置各種迷因素材圖的資料庫，讓網站能更加豐富完整  

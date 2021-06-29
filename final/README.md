@@ -2,7 +2,7 @@
 ## github 連結
 https://ehjhihlo.github.io/final/index.html
 ## 影片 連結
-
+https://drive.google.com/file/d/1N9HCORGH8eCNH1Sc-XufJ97f3km5GDXT/view?usp=sharing
 
 ## 參考資料
 ### 1.迷因圖片來源：
